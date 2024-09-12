@@ -1,0 +1,13 @@
+* {
+    box-sizing: none;
+}
+
+a {
+    color: black;
+}
+
+body {
+    background: gray;
+    font-size: 14px;
+    
+}
